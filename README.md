@@ -1,5 +1,5 @@
 # PosgreSQL
-> Welcome To The World of posgre Collection®. An ongoing & curated collection of awesome software, libraries, learning tutorials, tools and resources and cool stuff about [PostgreSQL](https://www.postgresql.org/)
+> Welcome To The World of posgre Collection®. An ongoing & curated collection of awesome software libraries, learning tutorials, Useful links & scripts, tools, resources and cool stuff about [PostgreSQL](https://www.postgresql.org/)
 > Thanks to our daily readers and contributoprs. The goal is to build a categorized community-driven collection of very well-known resources. Sharing, suggestions and contributions are always welcome!
 
 
