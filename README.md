@@ -284,3 +284,19 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * Telegram - Several groups for PostgreSQL in different langauges: [Russian](https://t.me/pgsql) >4200 people, [Brazilian Portuguese](https://t.me/postgresqlbr) >2300 people, [Indonesian](https://t.me/postgresql_id) ~1000 people, [English](https://t.me/postgreschat) >750 people
 * [#postgresql on Freenode](https://webchat.freenode.net/#postgresql) - The most popular IRC channel about Postgres on Freenode with over 1000 users
 
+## Contributing 
+
+You are most welcome to [contribute](CONTRIBUTING.md) to this Awesome Community
+list as well. Big thanks to all current
+[contributors](https://github.com/exajobs/community/graphs/contributors)
+who have helped build this Awesome Community list.
+
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Exajobs](https://github.com/exajobs) has
+waived all copyright and related or neighboring rights to this work.
+
+[Back to top](#posgresql-collection)
+
